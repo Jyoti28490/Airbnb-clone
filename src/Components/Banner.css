@@ -1,0 +1,55 @@
+.banner {
+  height: auto;
+  /* position: absolute; */
+  background: url("https://segurosjce.com/wp-content/uploads/2019/10/airbnb_banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  /* object-fit: cover; */
+  width: 100%;
+  position: relative;
+  /* background-attachment: fixed; */
+  /* border: none; */
+
+  /* border: 2px solid blue; */
+}
+
+.banner__info {
+  background-color: black;
+  color: white;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 25vh;
+  padding-bottom: 40px;
+  width: 300px;
+}
+
+.banner__info > button {
+  background-color: #ff7779;
+  color: white;
+  text-transform: inherit;
+  margin-top: 20px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.banner__info > button:hover {
+  background-color: white;
+  color: black;
+}
+
+.banner_SearchButton {
+  background-color: white !important;
+  font-weight: 900 !important;
+  text-transform: inherit !important;
+  color: #ff7779 !important ;
+}
+
+.banner__info > h5 {
+  margin-top: 10px;
+}
+
+.banner__search {
+  display: flex;
+  flex-direction: column;
+}
