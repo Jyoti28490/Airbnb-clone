@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Airbnb-clone/static/css/main.ce2a9412.chunk.css",
+    "main.js": "/Airbnb-clone/static/js/main.d3baef57.chunk.js",
+    "main.js.map": "/Airbnb-clone/static/js/main.d3baef57.chunk.js.map",
+    "runtime-main.js": "/Airbnb-clone/static/js/runtime-main.6ee4c411.js",
+    "runtime-main.js.map": "/Airbnb-clone/static/js/runtime-main.6ee4c411.js.map",
+    "static/css/2.06382735.chunk.css": "/Airbnb-clone/static/css/2.06382735.chunk.css",
+    "static/js/2.96a3b011.chunk.js": "/Airbnb-clone/static/js/2.96a3b011.chunk.js",
+    "static/js/2.96a3b011.chunk.js.map": "/Airbnb-clone/static/js/2.96a3b011.chunk.js.map",
+    "static/js/3.c501d6bb.chunk.js": "/Airbnb-clone/static/js/3.c501d6bb.chunk.js",
+    "static/js/3.c501d6bb.chunk.js.map": "/Airbnb-clone/static/js/3.c501d6bb.chunk.js.map",
+    "index.html": "/Airbnb-clone/index.html",
+    "static/css/2.06382735.chunk.css.map": "/Airbnb-clone/static/css/2.06382735.chunk.css.map",
+    "static/css/main.ce2a9412.chunk.css.map": "/Airbnb-clone/static/css/main.ce2a9412.chunk.css.map",
+    "static/js/2.96a3b011.chunk.js.LICENSE.txt": "/Airbnb-clone/static/js/2.96a3b011.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ee4c411.js",
+    "static/css/2.06382735.chunk.css",
+    "static/js/2.96a3b011.chunk.js",
+    "static/css/main.ce2a9412.chunk.css",
+    "static/js/main.d3baef57.chunk.js"
+  ]
+}
